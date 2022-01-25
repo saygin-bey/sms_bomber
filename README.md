@@ -2,7 +2,7 @@
 
 This software is for prank purposes. Do not use it to disturb people.
 <br>
-You do not need to play with your device settings.
+You do <b>not need to change<b/> device settings.
 <br>
 It only works on Android devices.
 <br>
