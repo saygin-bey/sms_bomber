@@ -1,9 +1,10 @@
 # SMS Bomber
-
-This software is for prank purposes. Do not use it to disturb people.
+<ul>
+  <li>This software is for prank purposes. Do not use it to disturb people.</li>
 <br>
-You do <b>not need to change</b> device settings.
+  <li>You do <b>not need to change</b> device settings.</li>
 <br>
-It only works on Android devices.
+  <li>It only works on Android devices.</li>
 <br>
-You must have downloaded and installed the Google Messages app.
+<li>You must have downloaded and installed the Google Messages app.</li>
+</ul>
