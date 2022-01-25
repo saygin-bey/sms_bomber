@@ -1,4 +1,4 @@
-# sms_bomber
+# SMS Bomber
 
 This software is for prank purposes. Do not use it to disturb people.
 <br>
